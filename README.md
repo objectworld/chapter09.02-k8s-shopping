@@ -1,2 +1,2 @@
-# chapter06-spring-cloud
-Chapter 6. Spring Cloud
+# chapter09.02-k8s-shopping
+Chapter 9. Kubernetes 적용하기
